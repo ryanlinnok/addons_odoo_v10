@@ -1,5 +1,5 @@
 {
-"name": "Academic Information System Day 1",
+"name": "Academic Information System",
 "version": "1.0",
 "depends": [
 "base",
@@ -9,7 +9,7 @@
 "category": "Education",
 'website': 'http://www.vitraining.com',
 "description": """\
-Academic Information System Day 1
+Academic Information System
 """,
 "data": [
 "menu.xml",
